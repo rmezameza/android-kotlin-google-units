@@ -1,6 +1,6 @@
 <!-- # android-kotlin-google-units -->
-# Codelab units / projects from Android Developers
-## >> Android Basics in Kotlin <<
+# >> Android Basics in Kotlin <<
+##  Codelab units / projects from Android Developers
 
 These units are taken from [Android Developers, Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
