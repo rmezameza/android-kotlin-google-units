@@ -15,3 +15,6 @@ I want to play more with the projects by changing images and functions to improv
 **Codelabs which I completed independently:**
 * Lemonade App
 * Dogglers App
+
+These type of units give you introductions instead of step-by-step solutions. The foundation and tests are predefined, but the implementation
+of some function need to be implementated by the student independently.
