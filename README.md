@@ -26,6 +26,6 @@ If you are looking for the unit folder or code, please visit the [GitHub Account
 
 
 ## >> Android Basics in Kotlin <<
-Units that I already finished:
+Units that I have finished:
 - Unit 1
 - Unit 2
