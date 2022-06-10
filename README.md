@@ -1,6 +1,5 @@
 <!-- # android-kotlin-google-units -->
-# >> Android Basics in Kotlin <<
-##  Codelab units / projects from Android Developers
+#  Codelab units / projects from Android Developers
 
 These units are taken from [Android Developers, Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
@@ -24,3 +23,9 @@ tests, made by the Developers Team. The predefined code is under Copyright by An
 **Important Information:**
 This repo is just for presenting my progress with the units and my solution!
 If you are looking for the unit folder or code, please visit the [GitHub Account of Google Developer Training](https://github.com/google-developer-training/)!
+
+
+## >> Android Basics in Kotlin <<
+Units that I already finished:
+- Unit 1
+- Unit 2
